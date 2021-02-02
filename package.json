@@ -1,0 +1,22 @@
+{
+  "name": "javascript-classes",
+  "version": "1.0.0",
+  "description": "intro to js classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessica-au/javascript-classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessica-au/javascript-classes/issues"
+  },
+  "homepage": "https://github.com/jessica-au/javascript-classes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
